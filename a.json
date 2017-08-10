@@ -6,13 +6,8 @@
     "isActive": true,
     "balance": "$3,288.77",
     "picture": "http://placehold.it/32x32",
-<<<<<<< Updated upstream
-    "age": 42,
-    "eyeColor": "blue",
-=======
     "age": 56,
     "eyeColor": "brown",
->>>>>>> Stashed changes
     "name": "Carlene Daugherty",
     "gender": "male",
     "company": "GOKO",
